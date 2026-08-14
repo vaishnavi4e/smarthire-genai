@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# API keys
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data
+data/
+
+# FAISS indexes
+*.faiss
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
